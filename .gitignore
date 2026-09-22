@@ -1,0 +1,10 @@
+build*/
+dist/
+telemetry_tests
+telemetry_tests.exe
+*.o
+*.obj
+*.exe
+*.pdb
+__pycache__/
+.DS_Store
